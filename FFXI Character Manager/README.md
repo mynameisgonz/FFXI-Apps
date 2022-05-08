@@ -15,3 +15,12 @@ If you do not follow these values, the app is likely to break.
 The app will also save the last place you had it on screen and open in that position when you reopen it.
 
 The app is ALWAYS on the top of the screen but can be minimized if you are using hotkeys and dont want to see it.
+
+This app requires you RUN AS ADMIN because of POL/FFXI's requirement to run as admin as well. You can either right-click run as admin or set it in the security sections
+
+![image](https://user-images.githubusercontent.com/25873921/167303628-376c4538-9454-4c4a-b4b6-38205d4253a5.png)
+
+or 
+
+![image](https://user-images.githubusercontent.com/25873921/167303642-44062323-a76a-4647-8db0-6bab84e083b0.png)
+
