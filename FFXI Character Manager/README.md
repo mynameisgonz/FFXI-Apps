@@ -1,3 +1,5 @@
+<b>5/10/2022 UPDATE - Added The Ability to Tab Between Instances Using Hotkey (Default NumPad0). Button can be changed in config.</b>
+
 FFXI Character Manager is an addon that allows you to quickly swap between open instances of FFXI (Windower). You can either click the buttons on screen or use hotkeys on your keybard to flip instantly. NO MORE ALT TABBING!
 
 ![image](https://user-images.githubusercontent.com/25873921/167303324-f7383bfe-94c4-4cb9-bb52-91c3a5b63558.png)
