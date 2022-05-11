@@ -2,7 +2,7 @@
 
 FFXI Character Manager is an addon that allows you to quickly swap between open instances of FFXI (Windower). You can either click the buttons on screen or use hotkeys on your keybard to flip instantly. NO MORE ALT TABBING!
 
-![image](https://user-images.githubusercontent.com/25873921/167303324-f7383bfe-94c4-4cb9-bb52-91c3a5b63558.png)
+![image](https://user-images.githubusercontent.com/25873921/167954456-3fd2ebb6-c2f4-4269-99b1-a0bc879be0c0.png)
 
 This application does not hook into POL/FFXI/Windower and does not do anything more than get the open POL Processes, makes a list, and allows you to swap through them.
 
